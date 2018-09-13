@@ -19,7 +19,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'materialize-sass'
 
-
+gem 'coffee-rails'
 
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder

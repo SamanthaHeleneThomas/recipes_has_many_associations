@@ -3,7 +3,7 @@ class IngredientsController < ApplicationController
  
  #GET ingredients
   def index
-    @ingredients =ingredient.all
+    @ingredients = Ingredient.all
   end
 
   def show 
